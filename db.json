@@ -1,0 +1,324 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Full Stack Developer",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of Frontend and backend development and build first mobile app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://cdn.dribbble.com/userupload/6252786/file/original-95b80fa9cfab3fbeeb22db79028fa348.png?resize=1504x1128&vertical=center",
+      "duration": "8 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build first mobile app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "10 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Backend Developer",
+      "name": "Introduction to Nodejs",
+      "instructor": "John Doe",
+      "description": "Learn the basics of Nodejs and backend  development and build first  app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "12 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Python developer",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of python development and build first mobile app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/6366444/pexels-photo-6366444.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "14 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Java Developer",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of java development and build first  app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/95916/pexels-photo-95916.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "15 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "MERN Stack Developer",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of MERN stack development and build first  app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/7054384/pexels-photo-7054384.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "8 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "React Developer",
+      "name": "Digital marketing",
+      "instructor": "John Doe",
+      "description": "Learn the basics of digital marketing app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/7948043/pexels-photo-7948043.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "10 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Data Science",
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of Data Science and build first mobile app",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "duration": "12 week",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic JavaScript knowledge",
+        "Familiarity with  React"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    }
+  ]
+}
